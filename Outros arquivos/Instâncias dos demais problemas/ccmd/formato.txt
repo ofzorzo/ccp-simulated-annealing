@@ -1,0 +1,12 @@
+Primeira linha: n m
+  n = número de vértices
+  m = número de arestas
+
+Demais linhas, uma por vértice: f g d n1 n2 n3 ... nd
+  f = valor f do vértice
+  g = valor g do vértice
+  d = grau do vértice
+  ni = número do i-ésime vizinho do vértice
+
+Os vértices tem números 0,1,...,n-1.
+

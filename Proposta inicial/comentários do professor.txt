@@ -1,0 +1,23 @@
+Obrigado. Comentários:
+
+1. "Proposta apresentada como requisito parcial para a  obtenção de nota
+no trabalho final da disciplina Otimização Combinatória" :)
+
+2. Modelo matemática: Ok, com apresentação boa.
+
+3. Representação Ok, mas talvez não a mais adequada/eficiente para as
+tuas operações.
+
+4. Solução inicial: Ok.
+
+5. Vizinhançã: Ok. Nota que, diferente de outras buscas locais, no
+Simulated Annealing a vizinhança sempre é estocástico, porque selecionar
+um vizinho aleatório. As outras vizinhanças parecem razoáveis, e seria
+interessante ver eles em comparação com a atual.
+
+6. Temperatura final: Ok.
+
+7. Temperatura inicial: OK.
+
+Resumo: proposta boa, bem evoluída, os todos os teus elementos fazem
+sentido.
