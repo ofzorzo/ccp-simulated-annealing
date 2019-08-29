@@ -1,6 +1,0 @@
-import subprocess
-
-cmd = ['python D:\UFRGS\Quinto Semestre\Otimização Combinatória\testeInfinito.py']
-process = subprocess.Popen(cmd, stdout=subprocess.PIPE)
-	for line in process.stdout:
-		print(line)
